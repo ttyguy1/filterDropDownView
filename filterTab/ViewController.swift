@@ -24,11 +24,6 @@ class ViewController: UIViewController {
         showFilterView()
     }
     
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-    
     @IBAction func doneButtonTapped(_ sender: UIButton) {
     }
     
